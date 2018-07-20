@@ -27,7 +27,7 @@ How to setup & use developer tools in:
 
 | Lang       | Repo                                                                        | Notes                                    |
 |------------|-----------------------------------------------------------------------------|------------------------------------------|
-| Java       | [IMSGlobal BasicLTI][1]      |                                          |
+| Java       | [IMSGlobal BasicLTI](https://github.com/IMSGlobal/basiclti-util-java)       |                                          |
 |            | [pfgray/lti-java](https://github.com/pfgray/lti-java)                       | Most Recently updated                    |
 |            | [blindsidenetworks/lti](https://github.com/blindsidenetworks/lti)           |                                          |
 | Javascript | [omsmith/ims-lti](https://github.com/omsmith/ims-lti)                       |                                          |
@@ -38,7 +38,6 @@ How to setup & use developer tools in:
 |            | [pyLTI](https://github.com/mitodl/pylti)                                    | ...                                      |
 |            | [pylti/lti](https://github.com/pylti/lti)                                   | ...nothing confusing there!              |
 | Ruby       | [instructure/ims-lti](https://github.com/instructure/ims-lti)               |                                          |
-[1]: https://github.com/IMSGlobal/basiclti-util-java
 <hr>
 
 #### FAKE IT THEN MAKE IT
@@ -61,4 +60,3 @@ Allows registration with creation of [custom consumers](http://provider.azureweb
 [PHP] [Making a Basic LTI (Learning Tools Intoperability) App](https://acrl.ala.org/techconnect/post/making-a-basic-lti-learning-tools-intoperability-app/ "Making a Basic LTI (Learning Tools Intoperability) App") 
 
 [JS] [Simple LTI Tool Consumer in HTML and JavaScript](https://medium.com/lcom-techblog/simple-lti-tool-consumer-in-html-and-javascript-72ca153d7a83 "Simple LTI Tool Consumer in HTML and JavaScript")
-
