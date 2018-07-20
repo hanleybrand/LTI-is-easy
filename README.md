@@ -37,11 +37,18 @@ How to setup & use developer tools in:
 ##### Python
 
 ##### Ruby
-| Java | Javascript | .NET                                                                 | PHP | Python | Ruby |
-|------|------------|----------------------------------------------------------------------|-----|--------|------|
-|      |            | [LTILibrary](https://github.com/andyfmiller/LtiLibrary "LTILibrary") |     |        |      |
-|      |            |                                                                      |     |        |      |
-|      |            |                                                                      |     |        |      |
+| Lang       | Repo                                                                        | Notes                                    |
+|------------|-----------------------------------------------------------------------------|------------------------------------------|
+| Java       | [IMSGlobal BasicLTI](https://github.com/IMSGlobal/basiclti-util-java)       |                                          |
+|            | [pfgray/lti-java](https://github.com/pfgray/lti-java)                       | Most Recently updated                    |
+|            | [blindsidenetworks/lti](https://github.com/blindsidenetworks/lti)           |                                          |
+| Javascript | [omsmith/ims-lti](https://github.com/omsmith/ims-lti)                       |                                          |
+|            | [rockymadden/lti.js](https://github.com/rockymadden/lti.js/)                |                                          |
+| .NET       | [LTILibrary](https://github.com/andyfmiller/LtiLibrary "LTILibrary")        |                                          |
+| PHP        | (IMSGlobal/LTI)[https://github.com/IMSGlobal/LTI-Tool-Provider-Library-PHP] |                                          |
+| Python     | [tophatmonocle/ims_lti_py](https://github.com/tophatmonocle/ims_lti_py)     | "Tests are failing and PRs are welcome!" |
+|            | [pyLTI](https://github.com/mitodl/pylti)                                    |                                          |
+|            |                                                                             |                                          |
 <hr>
 
 #### FAKE IT THEN MAKE IT
