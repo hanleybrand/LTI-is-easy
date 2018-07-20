@@ -27,7 +27,7 @@ How to setup & use developer tools in:
 
 | Lang       | Repo                                                                        | Notes                                    |
 |------------|-----------------------------------------------------------------------------|------------------------------------------|
-| Java       | [IMSGlobal BasicLTI](https://github.com/IMSGlobal/basiclti-util-java)       |                                          |
+| Java       | [IMSGlobal BasicLTI][1]      |                                          |
 |            | [pfgray/lti-java](https://github.com/pfgray/lti-java)                       | Most Recently updated                    |
 |            | [blindsidenetworks/lti](https://github.com/blindsidenetworks/lti)           |                                          |
 | Javascript | [omsmith/ims-lti](https://github.com/omsmith/ims-lti)                       |                                          |
@@ -38,6 +38,7 @@ How to setup & use developer tools in:
 |            | [pyLTI](https://github.com/mitodl/pylti)                                    | ...                                      |
 |            | [pylti/lti](https://github.com/pylti/lti)                                   | ...nothing confusing there!              |
 | Ruby       | [instructure/ims-lti](https://github.com/instructure/ims-lti)               |                                          |
+[1]: https://github.com/IMSGlobal/basiclti-util-java
 <hr>
 
 #### FAKE IT THEN MAKE IT
