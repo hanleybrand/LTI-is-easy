@@ -231,3 +231,8 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/python,pycharm,phpstorm
+.idea/
+.idea/LTI-is-easy.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
