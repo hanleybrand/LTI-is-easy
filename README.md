@@ -37,7 +37,11 @@ How to setup & use developer tools in:
 ##### Python
 
 ##### Ruby
-
+| Java | Javascript | .NET                                                                 | PHP | Python | Ruby |
+|------|------------|----------------------------------------------------------------------|-----|--------|------|
+|      |            | [LTILibrary](https://github.com/andyfmiller/LtiLibrary "LTILibrary") |     |        |      |
+|      |            |                                                                      |     |        |      |
+|      |            |                                                                      |     |        |      |
 <hr>
 
 #### FAKE IT THEN MAKE IT
