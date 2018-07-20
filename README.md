@@ -23,20 +23,6 @@ How to setup & use developer tools in:
 
 <hr>
 
-#### LTI Libraries
-
-##### Java
-
-##### Javascript
-
-##### .NET
-[LTILibrary](https://github.com/andyfmiller/LtiLibrary "LTILibrary")
-
-##### PHP
-
-##### Python
-
-##### Ruby
 | Lang       | Repo                                                                        | Notes                                    |
 |------------|-----------------------------------------------------------------------------|------------------------------------------|
 | Java       | [IMSGlobal BasicLTI](https://github.com/IMSGlobal/basiclti-util-java)       |                                          |
@@ -45,10 +31,11 @@ How to setup & use developer tools in:
 | Javascript | [omsmith/ims-lti](https://github.com/omsmith/ims-lti)                       |                                          |
 |            | [rockymadden/lti.js](https://github.com/rockymadden/lti.js/)                |                                          |
 | .NET       | [LTILibrary](https://github.com/andyfmiller/LtiLibrary "LTILibrary")        |                                          |
-| PHP        | (IMSGlobal/LTI)[https://github.com/IMSGlobal/LTI-Tool-Provider-Library-PHP] |                                          |
+| PHP        | [IMSGlobal/LTI](https://github.com/IMSGlobal/LTI-Tool-Provider-Library-PHP) |                                          |
 | Python     | [tophatmonocle/ims_lti_py](https://github.com/tophatmonocle/ims_lti_py)     | "Tests are failing and PRs are welcome!" |
-|            | [pyLTI](https://github.com/mitodl/pylti)                                    |                                          |
-|            |                                                                             |                                          |
+|            | [pyLTI](https://github.com/mitodl/pylti)                                    | ...                                      |
+|            | [pylti/lti](https://github.com/pylti/lti)                                   | ...nothing confusing there!              |
+| Ruby       | [instructure/ims-lti](https://github.com/instructure/ims-lti)               |                                          |
 <hr>
 
 #### FAKE IT THEN MAKE IT
