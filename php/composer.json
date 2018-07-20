@@ -1,0 +1,8 @@
+{
+  "name": "LTI is Easy PHP",
+  "description": "",
+  "require": {
+    "maximebf/debugbar": "1.*",
+    "imsglobal/lti": "3.0.2"
+  }
+}
