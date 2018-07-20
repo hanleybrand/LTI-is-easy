@@ -16,9 +16,9 @@ How to setup & use developer tools in:
 
 ##### SERVER SIDE DEBUG TOOLS
 
-[Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/en/stable/index.html "Django Debug Toolbar")
-[PHP Debug Bar](http://phpdebugbar.com/ "PHP Debug Bar")
-[debug-bar (Ruby/Rails) ](https://github.com/whitepages/debug-bar "(Rails) debug-bar")
+* [Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/en/stable/index.html "Django Debug Toolbar")
+* [PHP Debug Bar](http://phpdebugbar.com/ "PHP Debug Bar")
+* [debug-bar (Ruby/Rails) ](https://github.com/whitepages/debug-bar "(Rails) debug-bar")
 
 
 <hr>
